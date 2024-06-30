@@ -13,9 +13,12 @@ namespace _05_Boolean
             bool userResult = false; // "bool" java'da "boolean" olarak tanimlanir. 
             userResult = true;
 
+            Console.WriteLine(userResult);  
+
             bool boolValue; // default olarak false dondurur.
             boolValue = true;
 
+            Console.WriteLine(boolValue);
 
         }
     }
